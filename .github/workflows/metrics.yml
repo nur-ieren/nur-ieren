@@ -1,8 +1,8 @@
+
 name: GitHub Metrics
 
 on:
   schedule:
-    # 6時間ごとに更新
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
