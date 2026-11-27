@@ -1,9 +1,8 @@
-
 ### GitHub Statistics
 
-![GitHub Stats](https://ghstats.dev/api/card?username=nur-ieren&hide_border=true)
+![GitHub Stats](https://ghstats.dev/api/card?username=nur-ieren)
 
-![Top Languages](https://ghstats.dev/api/languages?username=nur-ieren&layout=compact)
+![Top Languages](https://ghstats.dev/api/langs?username=nur-ieren&layout=compact)
 
 ### GitHub Activity
 
